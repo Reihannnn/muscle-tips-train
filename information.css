@@ -1,0 +1,39 @@
+.information {
+  background-color: rgb(35, 35, 35);
+  height: 110%;
+  width: 100%;
+  padding: 2rem;
+}
+
+.chest-information{
+  padding: 1rem;
+  display: none;
+}
+
+.hand-information{
+  display: none;
+}
+
+.arm-information{
+  display: none;
+}
+
+.legs-information{
+  padding: 2.5rem;
+  line-height: 1.45;
+  display: none;
+}
+.head-information{
+  display: none;
+}
+
+.shoulder-information{
+  padding: 2.5rem;
+  display: none;
+}
+
+.core-abs-information{
+  padding: 2.5rem;
+  display: none;
+}
+
